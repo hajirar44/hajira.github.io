@@ -63,13 +63,3 @@ Fatima Jinnah Women University, Rawalpindi
 - Video Editing  
 
 ---
-
-## 📌 How to Use This Resume
-
-- Save this file as `README.md`
-- Upload it to a GitHub repository (e.g., `Hajira-Resume`)
-- Pin the repository on your GitHub profile
-
----
-
-⭐ *Open to internships, freelance work, and collaboration opportunities!*
